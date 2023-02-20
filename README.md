@@ -1,6 +1,6 @@
-### Hey there 👋
+### Howdy! 👋
 
-My Name is Scott, and I'm a Data Scientist with expertise and interests in Machine Learning, Natural Language Processing, and Computer Vision. 
+My name is Scott, and I'm a Data Scientist with expertise and interests in Machine Learning, Natural Language Processing, and Computer Vision. 
 
 I receieved my Ph.D. from the University of Michigan in 2022, where I developed ML models to study cancer metabolism and identify cancer drug candidates. I also worked in an early stage startup leveraging segmentation algorithms to identify anaomtical structures in the surgical suite. Nowadays, I use NLP models to evaluate electronic medical records, optimize healthcare payments, and identify anomalous payments.
 
