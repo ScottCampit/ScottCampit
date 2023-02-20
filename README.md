@@ -2,9 +2,9 @@
 
 My Name is Scott, and I'm a Data Scientist with expertise and interests in Machine Learning, Natural Language Processing, and Computer Vision. 
 
-I receieved my Ph.D. from the University of Michigan in 2022, where I developed ML models to study cancer metabolism and identify cancer drug candidates. Now I use NLP models to evaluate electronic medical records, optimize healthcare payments, and identify anomalous payments.
+I receieved my Ph.D. from the University of Michigan in 2022, where I developed ML models to study cancer metabolism and identify cancer drug candidates. I also worked in an early stage startup leveraging segmentation objects to identify anaomtical structures in the surgical suite. Nowadays, I use NLP models to evaluate electronic medical records, optimize healthcare payments, and identify anomalous payments.
 
-If you want to say hi, let's chat: scottcampit@gmail.com.
+If you want to say hi, let's chat at scottcampit@gmail.com. Also, if you're interested in my ramblings about all things nerdy, you can read my blog at https://www.scottcampit.com/.
 
 - 🔭 I’m currently working at [RaLytics](https://ralytics.com/), developing NLP models to optimize healthcare payment processes.
 - 🌱 I’m currently learning about fullstack development and am actively working on projects.
