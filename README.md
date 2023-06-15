@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-My name is Scott, and I'm a Fullstack Data Scientist with a total of 7+ years developing AI/ML healthcare technologies. 
+My name is Scott, and I'm a Fullstack Data Scientist with a total of 7+ years developing AI/ML solutions in biotechnology, medical devices, and healthcare industries. 
 
 I receieved my Ph.D. from the University of Michigan in 2022, where I developed statistical and machine learning models to study cancer metabolism and identify cancer drug candidates. You can find a lot of the work I have done in the pinned repos below, and the associated publications in my [Google Scholar](https://scholar.google.com/citations?user=Hw1bieoAAAAJ&hl=en&oi=ao). 
 
