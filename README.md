@@ -9,13 +9,12 @@ While in graduate school, I worked on many exciting projects, including:
   * Data science consulting for several AI and biotech startups for myself and the miLEAD Consulting Group.
   * Science communication with several student-led organizations at Michigan.
     
-Nowadays, I'm using ML, NLP, and large language models to evaluate electronic medical records, optimize healthcare payments, and identify anomalous payments. I'm excited about applying AI to other use-cases, and enjoy working on projects related to large language models, computer vision, and generative AI.
+Nowadays, work on projects related to language modeling, computer vision, and other exciting developments in AI.
 
 If you want to grab a coffee, or just say hi, let's chat at scottcampit@gmail.com. Also, if you're interested in my ramblings about all things nerdy, you can read my [blog](https://www.scottcampit.com/), which is currently undergoing some re-vamping.
 
 ### TL;DR
 
-- 🔭 I’m currently working at [RaLytics](https://ralytics.com/), developing NLP models to optimize healthcare payment processes.
-- 👯 I’m looking to collaborate on projects related to ML, NLP. and Computer Vision.
-- 💬 Ask me about life in and after grad school, technical things, or anything else that suits your fancy.
+- 🔭 I’m currently working at [RaLytics](https://ralytics.com/), developing statistical and NLP models to optimize healthcare payment processes.
+- 👯 I’m working on projects related to ML, NLP. and Computer Vision.
 - 📫 How to reach me: scottcampit@gmail.com or https://www.linkedin.com/in/scottcampit/.
