@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-My name is Scott, and I'm a Data Scientist, Consultant, and AI Researcher developing Artificial Intelligence, Machine Learning, and Statistical solutions in several industries, such as biotechnology, medical devices, and healthcare. 
+My name is Scott, and I'm a Data Scientist, Consultant, and AI Researcher with 7+ years developing Artificial Intelligence, Machine Learning, and Statistical solutions across several industries. I have particular subject matter expertise in  , such as biotechnology, medical devices, and healthcare. 
 
 I receieved my Ph.D. from the University of Michigan, where I developed new Systems Biology models to identify cancer drug candidates that target metabolism ([Publications](https://scholar.google.com/citations?user=Hw1bieoAAAAJ&hl=en&oi=ao)). My work has been acknowledged by institutions such as the National Cancer Institute, the Department of Education, and the Arnold and Mabel Beckman Foundation, where I have earned several fellowships and scholarships to conduct independent research. 
     
