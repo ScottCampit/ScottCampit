@@ -2,7 +2,7 @@
 
 My name is Scott, and I'm a Data Scientist, Consultant, and AI Researcher developing Artificial Intelligence, Machine Learning, and Statistical solutions in several industries, such as biotechnology, medical devices, and healthcare. 
 
-I receieved my Ph.D. from the University of Michigan, where I developed new Systems Biology models to identify cancer drug candidates that target metabolism [Google Scholar](https://scholar.google.com/citations?user=Hw1bieoAAAAJ&hl=en&oi=ao). My work has been acknowledged by institutions such as the National Cancer Institute, the Department of Education, and the Arnold and Mabel Beckman Foundation, where I have earned several fellowships and scholarships to conduct independent research. 
+I receieved my Ph.D. from the University of Michigan, where I developed new Systems Biology models to identify cancer drug candidates that target metabolism ([Publications](https://scholar.google.com/citations?user=Hw1bieoAAAAJ&hl=en&oi=ao)). My work has been acknowledged by institutions such as the National Cancer Institute, the Department of Education, and the Arnold and Mabel Beckman Foundation, where I have earned several fellowships and scholarships to conduct independent research. 
     
 Nowadays, I'm a Data Scientist at [RaLytics](https://ralytics.com/), where I'm heads down in AI R&D for a wide variety of company use-cases. Additionally, I have worked with several U.S. government, research, and private institutions as a consultant to offer insights, technical expertise, and develop new solutions on projects that catch my interests. 
 
