@@ -1,16 +1,10 @@
-# Howdy! 👋
+# Hey there! 👋
 
-My name is Scott, and I'm a Data Scientist, Consultant, and AI Researcher developing Artificial Intelligence, Machine Learning, and Statistical solutions in several industries, such as biotechnology, medical devices, and healthcare. 
+I'm Scott, and I'm a Data Scientist, Developer, and AI/ML Engineer with experience building cool things in biotechnology, healthcare, sports, and other industries. 
 
-I receieved my Ph.D. from the University of Michigan, where I developed new Systems Biology models to identify cancer drug candidates that target metabolism ([Publications](https://scholar.google.com/citations?user=Hw1bieoAAAAJ&hl=en&oi=ao)). My work has been acknowledged by institutions such as the National Cancer Institute, the Department of Education, and the Arnold and Mabel Beckman Foundation, where I have earned several fellowships and scholarships to conduct independent research. 
+I receieved my Ph.D. from the University of Michigan in 2017, where I developed new Systems Biology models to identify cancer drug candidates that target metabolism. My work has been acknowledged by institutions such as the National Cancer Institute, the Department of Education, and the Arnold and Mabel Beckman Foundation, where I have earned several fellowships and scholarships to conduct independent research. 
     
-Nowadays, I'm a Data Scientist at [RaLytics](https://ralytics.com/), where I'm heads down in AI R&D for a wide variety of company use-cases. Additionally, I have worked with several U.S. government, research, and private institutions as a consultant to offer insights, technical expertise, and develop new solutions on projects that catch my interests. 
-
-**Some of my current projects include (but are not limited to):**
-* Training and developing Vision-Language Models for chart reasoning and understanding 📈 
-* Medical NLP development for entity identification, extraction, and summarization 📄
-* Deploying statistical learning models for inferring patterns of care from claims data 🏥
-* Pose estimation applications for improving athletic performance 🏃‍♀️
+After graduate school, I worked as a Data Scientist and consultant in the healthcare sector, where I developed AI and ML solutions in Medicare risk adjustment, healthcare payments optimization, and web accessibility. Nowadays, I work for myself as a technical consultant, providing my expertise in software development, engineering, and AI to other businesses and organizations, ranging from startups and small businesses to large enterprises.
 
 **Some past projects I have worked on include:**
 * Leveraging LLMs for developing a personalized marketing platform 📧
@@ -18,5 +12,9 @@ Nowadays, I'm a Data Scientist at [RaLytics](https://ralytics.com/), where I'm h
 * Establishing DataOps and MLOps best practices for model deployment and data processing ☁️
 * Vision models to identify anatomical structures during surgical procedures 😷
 * Developing bioinformatics pipelines (gene set enrichment analysis, protein expression network graphs, etc) for drug discovery 💊
+* Training and developing Vision-Language Models for chart reasoning and understanding 📈 
+* Medical NLP development for entity identification, extraction, and summarization 📄
+* Deploying statistical learning models for inferring patterns of care from claims data 🏥
+* Pose estimation applications for improving athletic performance 🏃‍♀️
 
-☕ I'm always interested in chatting, colabs, and consulting gigs. If you're in the Bay Area and want to grab a coffee or just say hi, you can reach me at my [email address](scottcampit@gmail.com) or [LinkedIn](https://www.linkedin.com/in/scottcampit/). For my writings about all things nerdy, you can check out my [blog](https://www.scottcampit.com/), which is currently undergoing some re-vamping.
+I'm always interested in chatting, colabs, and consulting gigs. If you're in the Bay Area and want to grab a coffee or just say hi, you can reach me at my [email address](scottcampit@gmail.com) or [LinkedIn](https://www.linkedin.com/in/scottcampit/). Looking forward to it.
