@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Scott Campit | Co-Founder | Data Scientist 
 
 ## Who am I? (short)
 I'm Scott, and I'm the co-founder and tech lead at @Couro-io, where we develop AI tools that help runners enhance performance and reduce injury risk. I've worked as a Data Scientist, Developer, and AI/ML Engineer, building cool things in industries such as biotechnology, healthcare, and now sports technology. You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
