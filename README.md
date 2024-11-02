@@ -8,7 +8,7 @@ I receieved my PhD from the University of Michigan @sriram-lab, where I develope
     
 After graduate school, I worked as a Data Scientist and consultant in the healthcare sector with RaLytics, where I developed AI and ML solutions in Medicare risk adjustment, healthcare payments optimization, and web accessibility. This is where I translated my research skills into actual products within a highly regulated industry, consult for large organizations such as government entities, research organizations, and private healthcare companies, and learned how to work in a DevOps team.   
 
-Nowadays, I am working on two main projects. I'm a co-founder with Couro, where we support coaches, physical therapists, and athletes by developing AI tools that use training videos to generate data-driven insights. I am also the Principal at @Torchstack, where we provide software development, engineering, and AI services to small businesses and startups.
+Nowadays, I am a co-founder with Couro, where we support coaches, physical therapists, and athletes by developing AI tools that use training videos to generate data-driven insights. 
 
 ## My Past Projects
 Some of my past projects include:
@@ -25,4 +25,4 @@ Some of my past projects include:
 ## What next?
 I'm always interested in chatting about technology, startups, starting collaborations, helping other founders and small businesses, and just getting to know cool people and what they're working on. 
 
-If you're in the San Francisco Bay Area and want to grab a coffee or just say hi, you can reach me at my [email address](admin@torchstack.ai) or [LinkedIn](https://www.linkedin.com/in/scottcampit/).
+If you're in the San Francisco Bay Area and want to grab a coffee or just say hi, you can reach me at my [email address](scottcampit@gmail.com) or [LinkedIn](https://www.linkedin.com/in/scottcampit/).
