@@ -1,15 +1,15 @@
 # Scott Campit, Ph.D.
-Cofounder and CTO [@Couro](https://www.couro.io/)
+Co-founder and Chief Technology Officer [@Couro](https://www.couro.io/)
 
 ## Who am I? (short)
-I'm Scott, and I'm the co-founder and tech lead at @Couro-io, where we develop AI tools that help runners enhance performance and reduce injury risk. I've worked as a Data Scientist, Developer, and AI/ML Engineer, building cool things in industries such as biotechnology, healthcare, and now sports technology. You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
+I am a Data Scientist, Data/ML/AI Engineer, and Software Engineer that works with companies to fully leverage their data to gain important business insights, support decision making, and optimize their go-to-market strategy. I bring what I've learned from my background in highly regulated industries including biotechnology and healthcare to ensure I deliver work that follows industry best practices in operational efficiency, security, compliance, while driving growth. You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
 
 ## The longer story
-I received my PhD from the University of Michigan @sriram-lab, where I developed new machine learning and Systems Biology approaches to identify cancer drug candidates that target metabolism. My work has been acknowledged by institutions such as the National Cancer Institute, the Department of Education, and the Arnold and Mabel Beckman Foundation, where I have earned several fellowships and scholarships to conduct independent research. Additionally, I've published my research and code in journals such as Cancer and Metabolism.
+I received my PhD from the University of Michigan @sriram-lab, where I developed new machine learning and Systems Biology approaches to identify cancer drug candidates that hit key metabolic pathways. I published 8 peer-reviewed articles with associated software and led research that has earned over $100K in National Institute of Health (NIH), Department of Energy (DOE), and private grant funding.
     
-After graduate school, I worked as a Data Scientist and consultant in the healthcare sector with RaLytics, where I developed AI and ML solutions in Medicare risk adjustment, healthcare payments optimization, and web accessibility. This is where I translated my research skills into actual products within a highly regulated industry, consult for large organizations such as government entities, research organizations, and private healthcare companies, and learned how to work in a DevOps team.   
+I've worked in organizations that allowed me to hold many roles in technology as a data scientist and engineer, ML engineer, NLP/AI researcher, and DevOps engineer. Later in my career, I began taking on additional administrative responsibilities include consulting, fundraising, strategy planning and implementation, and managing engineering teams. I've supported clients such as Oak Ridge National Laboratory, the Centers for Medicare and Medicaid, private healthcare organizations, and several startups to drive various initiatives that impact millions of peoples lives.
 
-Nowadays, I am a co-founder with Couro, where we support coaches, physical therapists, and athletes by developing AI tools that use training videos to generate data-driven insights. 
+Currently, I am a co-founder and CTO of Couro. Our mission is to improve the lives of runners using AI, machine learning, and data. We work with professional athletes, physical therapists, coaches, biomechanists, sports scientists, and other experts in the sports industry to develop personalized running insights, based on running history and video analytics. 
 
 ## My Past Projects
 Some of my past projects include:
