@@ -12,7 +12,7 @@ I received my PhD from the University of Michigan @sriram-lab, where I developed
     
 I've worked in organizations that allowed me to hold many roles in technology as a data scientist and engineer, ML engineer, NLP/AI researcher, and DevOps engineer. Later in my career, I began taking on additional administrative responsibilities include consulting, fundraising, strategy planning and implementation, and managing engineering teams. I've supported clients such as Oak Ridge National Laboratory, the Centers for Medicare and Medicaid, private healthcare organizations, and several startups to drive various initiatives that impact millions of peoples lives.
 
-Currently, I am a co-founder and CTO of Couro. Our mission is to improve the lives of runners using AI, machine learning, and data. We work with professional athletes, physical therapists, coaches, biomechanists, sports scientists, and other experts in the sports industry to develop personalized running insights, based on running history and video analytics. 
+Currently, I am a co-founder and CTO of Couro. Our mission is to improve the lives of runners using AI, machine learning, and data. We work with professional athletes, physical therapists, coaches, biomechanists, sports scientists, and other experts in the sports industry to develop personalized running insights, based on running history, sports and clinical expert insights, and video analytics. 
 
 ## My Past Projects
 Some of my past projects include:
