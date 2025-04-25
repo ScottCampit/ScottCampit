@@ -4,10 +4,7 @@
 * Founder [@Torchstack](https://torchstack.ai/)
 
 ## Who am I? (short)
-- I am a Data Scientist and Data/ML/AI/DevOps Engineer that works with companies to fully leverage their data to gain important business insights, support decision making, and optimize their go-to-market strategy.
-- I bring what I've learned from my background in highly regulated industries including biotechnology and healthcare to ensure I deliver work that follows industry best practices in operational efficiency, security, compliance, while driving growth.
-
-You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
+I am a Data Scientist, AI Engineer, and Fullstack Developer who builds cool things with AI. You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
 
 ## The longer story
 I received my PhD from the University of Michigan @sriram-lab, where I developed new machine learning and Systems Biology approaches to identify cancer drug candidates that hit key metabolic pathways. I published 8 peer-reviewed articles with associated software and led research that has earned over $100K in National Institute of Health (NIH), Department of Energy (DOE), and private grant funding.
