@@ -1,5 +1,7 @@
 # Scott Campit, Ph.D.
+
 Co-founder and Chief Technology Officer [@Couro](https://www.couro.io/)
+
 Founder [@Torchstack](https://torchstack.ai/)
 
 ## Who am I? (short)
