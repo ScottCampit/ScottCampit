@@ -1,8 +1,7 @@
 # Scott Campit, Ph.D.
 
-Co-founder and Chief Technology Officer [@Couro](https://www.couro.io/)
-
-Founder [@Torchstack](https://torchstack.ai/)
+* Co-founder and Chief Technology Officer [@Couro](https://www.couro.io/)
+* Founder [@Torchstack](https://torchstack.ai/)
 
 ## Who am I? (short)
 - I am a Data Scientist and Data/ML/AI/DevOps Engineer that works with companies to fully leverage their data to gain important business insights, support decision making, and optimize their go-to-market strategy.
