@@ -7,11 +7,11 @@
 I am a Data Scientist, AI Engineer, and Fullstack Developer who builds cool things with AI. You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
 
 ## The longer story
-I received my PhD from the University of Michigan @sriram-lab, where I developed new machine learning and Systems Biology approaches to identify cancer drug candidates that hit key metabolic pathways. I published 8 peer-reviewed articles with associated software and led research that has earned over $100K in National Institute of Health (NIH), Department of Energy (DOE), and private grant funding.
+I received my PhD from the University of Michigan @sriram-lab, where I developed new AI/ML and Systems Biology approaches to identify cancer drug candidates that hit key metabolic pathways. I published 8 peer-reviewed articles with associated software and led research, earning over $100K in National Institute of Health (NIH), Department of Energy (DOE), and private grant funding.
     
-I've worked in organizations that allowed me to hold many roles in technology as a data scientist and engineer, ML engineer, NLP/AI researcher, and DevOps engineer. Later in my career, I began taking on additional administrative responsibilities include consulting, fundraising, strategy planning and implementation, and managing engineering teams. I've supported clients such as Oak Ridge National Laboratory, the Centers for Medicare and Medicaid, private healthcare organizations, and several startups to drive various initiatives that impact millions of peoples lives.
+After my graduate school training, I worked as a data scientist, AI engineer, NLP/AI researcher, and Chief Technology Officer for various companies. I also consult, strategize, and lead/manage engineering teams to build AI products. I've supported clients such as Oak Ridge National Laboratory, the Centers for Medicare and Medicaid, private healthcare organizations, and several startups to drive various initiatives that impact millions of people's lives.
 
-Currently, I am a co-founder and CTO of Couro. Our mission is to improve the lives of runners using AI, machine learning, and data. We work with professional athletes, physical therapists, coaches, biomechanists, sports scientists, and other experts in the sports industry to develop personalized running insights, based on running history, sports and clinical expert insights, and video analytics. 
+Currently, I am a co-founder and CTO of Couro. We aim to improve runners' lives using AI, machine learning, and data. We work with professional athletes, physical therapists, coaches, biomechanists, sports scientists, and other experts in the sports industry to develop personalized running insights, based on running history, sports, clinical expert insights, and video analytics. 
 
 ## My Past Projects
 Some of my past projects include:
