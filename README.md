@@ -1,7 +1,8 @@
 # Scott Campit, Ph.D.
 
-* Co-founder and Chief Technology Officer [@Couro](https://www.couro.io/)
-* Founder [@Torchstack](https://torchstack.ai/)
+* Head of Machine Learning at [Miraei AI](https://miraei.ai/)
+* Former Co-founder and Chief Technology Officer of [@Couro](https://www.couro.io/)
+* Former Founder and Chief Executive Officer of [@Torchstack](https://torchstack.ai/)
 
 ## Who am I? (short)
 I build cool things that have a high societal impact with AI. You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
