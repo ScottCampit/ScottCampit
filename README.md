@@ -1,7 +1,7 @@
 # Scott Campit, Ph.D.
 
 * Head of Machine Learning at [Miraei AI](https://miraei.ai/)
-* Founder and owner of [@Torchstack](https://torchstack.ai/)
+* Founder of [@Torchstack](https://torchstack.ai/)
 * Former Co-founder and Chief Technology Officer of [@Couro](https://www.couro.io/)
 * Former management consultant at [miLEAD](https://www.milead.org/)
 * Former Biomedical Researcher (PhD) at the University of Michigan in the [Chandrasekaran Lab](https://systemsbiologylab.org/)
@@ -14,7 +14,7 @@ I’m currently the Head of Machine Learning at Miraei, where we ingest, synthes
 
 In my undergraduate and graduate training, I was a biomedical researcher who developed AI/ML approaches for cancer drug discovery, specifically focusing on creating algorithms to identify biomarkers and drug candidates in targeted cellular populations. I won NIH/DOE grants and published original AI and biomedical research in peer-reviewed journals, including Nature Communications. More importantly, I learned how to bridge research, data, and software to build tools that unlock highly impactful insights into health. I applied the learnings from my role as a healthcare data scientist, where I optimized Medicare risk adjustment and drove operational improvements across government and provider networks. 
 
-Today, I lead the AI/ML team at Miraei, building data pipelines and agentic workflows to create real-time intelligent systems to support biopharma stakeholders. Previously, I was a co-founder and CTO of Couro, where we utilized AI and computer vision to help runners stay injury-free and train more effectively. My contributions enabled us to participate in the UC LAUNCH Accelerator Program, AWS Startup programs, and the NVIDIA Inception Accelerator Program. I was also the founder of Torchstack, an AI Studio that helped businesses build and deploy AI products from proof of concept to production. We were an AWS partner and have established partnerships with various companies across several verticals, including real estate, supply chain and logistics, biotechnology, security, and AI. Throughout my experiences, I've consistently built and leveraged automated systems and data-driven approaches to deliver products with measurable outcomes.
+Today, I lead the AI/ML team at Miraei, building data pipelines and agentic workflows to create real-time intelligent systems to support biopharma stakeholders. Previously, I was a co-founder and CTO of Couro, where we utilized AI and computer vision to help runners stay injury-free and train more effectively. My contributions enabled us to participate in the UC LAUNCH Accelerator Program, AWS Startup programs, and the NVIDIA Inception Accelerator Program. I am also the founder of Torchstack, an AI Studio that helps businesses build and deploy AI products from proof of concept to production. We were an AWS partner and have established partnerships with various companies across several verticals, including real estate, supply chain and logistics, biotechnology, security, and AI. Throughout my experiences, I've consistently built and leveraged automated systems and data-driven approaches to deliver products with measurable outcomes.
 
 ## My Past Projects
 Some of my past projects include:
