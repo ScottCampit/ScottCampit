@@ -1,8 +1,10 @@
 # Scott Campit, Ph.D.
 
 * Head of Machine Learning at [Miraei AI](https://miraei.ai/)
+* Founder and owner of [@Torchstack](https://torchstack.ai/)
 * Former Co-founder and Chief Technology Officer of [@Couro](https://www.couro.io/)
-* Former Founder and Chief Executive Officer of [@Torchstack](https://torchstack.ai/)
+* Former management consultant at [miLEAD](https://www.milead.org/)
+* Former Biomedical Researcher (PhD) at the University of Michigan in the [Chandrasekaran Lab](https://systemsbiologylab.org/)
 
 ## Who am I? (short)
 I build cool things that have a high societal impact with AI. You can find me at [LinkedIn](https://www.linkedin.com/in/scottcampit/).
@@ -18,12 +20,11 @@ Today, I lead the AI/ML team at Miraei, building data pipelines and agentic work
 Some of my past projects include:
 * Leveraging LLMs for developing a personalized marketing platform 📧
 * Performing data analysis and creating data pipelines for healthcare-based datasets (claims, financial, EMRs, etc) 🗂️
-* Establishing DataOps and MLOps best practices for model deployment and data processing ☁️
+* Establishing DataOps and MLOps best practices for AI/ML model deployment and data processing ☁️
+* Building multi-agent voicebot systems for security verification and vishing auditing 📞
 * Vision models to identify anatomical structures during surgical procedures 😷
 * Developing bioinformatics pipelines (gene set enrichment analysis, protein expression network graphs, etc) for drug discovery 💊
 * Training and developing Vision-Language Models for chart reasoning and understanding 📈 
-* Medical NLP development for entity identification, extraction, and summarization 📄
-* Deploying statistical learning models for inferring patterns of care from claims data 🏥
 * Pose estimation applications for improving athletic performance 🏃‍♀️
 
 ## What next?
