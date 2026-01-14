@@ -1,6 +1,6 @@
 # Scott Campit, Ph.D.
 
-* Head of Technology at [Miraei AI](https://miraei.ai/)
+* Head of Technology at [@Miraei AI](https://miraei.ai/)
 * Founder of [@Torchstack](https://torchstack.ai/)
 * Former Co-founder and Chief Technology Officer of [@Couro](https://www.couro.io/)
 * Former management consultant at [miLEAD](https://www.milead.org/)
