@@ -1,13 +1,13 @@
 # [Scott Campit, Ph.D.](https://www.linkedin.com/in/scottcampit/)
 
 ## Summary
-* Computational Biologist at [Toby](https://toby.health/)
+* Computational Biologist [@Toby](https://toby.health/)
 * Founder of [@Torchstack](https://torchstack.ai/)
-* Former Head of Technology at [@Miraei AI](https://miraei.ai/)
+* Former Head of Technology [@Miraei AI](https://miraei.ai/)
 * Former Co-founder and Chief Technology Officer of [@Couro](https://www.couro.io/)
 * Former Data Scientist I/II at [RaLytics](https://ralytics.com/)
 * Former Life Sciences Management Consultant at [miLEAD](https://www.milead.org/)
-* Former Biomedical Researcher (PhD) at the University of Michigan in the [Chandrasekaran Lab](https://systemsbiologylab.org/)
+* Former Biomedical Researcher (PhD) at the University of Michigan [@Chandrasekaran Lab](https://systemsbiologylab.org/)
 
 ## Who am I? (short)
 I’m a computational biologist at TOBY, where profile VOCs in urine with MS and AI to enable early detection, diagnostics, and therapeutic discovery for complex diseases like cancer and Alzheimer's. I enjoy working within the intersection of science, engineering, data, and technology - wearing many hats, such as data scientist, AI engineer, Head of Technology, founder, and Chief Technology Officer. In sum, I enjoy building high-impact AI/ML-powered solutions, from researching new fundamental ways of doing things, to GTM and building production-grade systems. 
